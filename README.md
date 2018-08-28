@@ -1,6 +1,6 @@
 # flutter_mlkit_sample
 
-A new Flutter application.
+A new Flutter application, using firebase ml-kit.
 
 ## Getting Started
 
